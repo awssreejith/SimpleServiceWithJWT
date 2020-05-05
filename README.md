@@ -18,7 +18,6 @@ To send request with token which we got from above
 *********************  REQUIREMENTS  ****************************************
 
 0)jwt
-------
 
 sudo pip3 install PyJWT
 
