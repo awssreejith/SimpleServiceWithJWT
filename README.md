@@ -1,8 +1,6 @@
 Here we accept a simple user-ID and password and authenticate with the user id and password stored in a JSON.
 If it matches, then we return login succesful JSON message. Else error JSON message
 
-In the second phase We use JWT for autherization for each request
-
 To send usrid and password for the first time
         curl -u Isser_Harel:mossad_1 -X POST http://127.0.0.1:5000/login
                 <userid>   <password>
